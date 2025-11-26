@@ -1,4 +1,4 @@
-# 🏛️ ky legislation file tree
+# 🏛️ Kentucky legislation file tree
 
 Download a copy of your states legislation.
 
